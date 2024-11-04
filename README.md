@@ -18,13 +18,9 @@
 
 [Inference](#inference)
 
-
-
-
-
 ## Project Overview
 ---
-The aim of this project is to analyze customer data for a subscription service to identify segments and trends. The goal is to understand customers behavior, track subscription types, and identify key trends in cancellations and renewals of the subscribed services.
+The aim of this project is to analyze customer data for a subscription service to identify segments and trends within two years. The goal is to understand customers behavior, track subscription types, and identify key trends in cancellations and renewals of the subscribed services.
 
 ## Data Sources
 ---
@@ -63,8 +59,24 @@ FROM
 GROUP BY 
     Region;
 ```
-## Data Visualization
+![DAX](https://github.com/user-attachments/assets/d05c4c9c-943b-4d48-b01b-c10073b9c4ab)
 
+
+## Data Visualization
+![For CustomerData](https://github.com/user-attachments/assets/66222de8-f628-4af0-b908-b8b3eab14779)
+
+![CustomerDataProject](https://github.com/user-attachments/assets/8f6f2257-245d-43bc-885b-3196fbb205d2)
 
 
 ## Inference
+1. The total numbers of Subscribers that cancelled wer more than the subscribers that made Renewals.
+2. Subscription is are the peak at the beginning of the year, but drops by the end of the year.
+3. The East and the North Regions subscribe to the Basic type only, while Premium is available only in the South Region and Standard only in the West Region.
+
+## Recommendations
+1. There is the need to focus on the Marketing Strategies and Wide Coverage, why some type are predominant in one Regon and none at all in the other Regions.
+2. Promotional Sales should be carried out in all the four Regions and good incentives should be provided.
+3. Coverage areas should be greatly increased in all the four regions to tackle the issue of good connectivity in all the regions.
+4. There should be special Promotional Sales towards the end of the year to encourage more and stable subscriptions.
+
+Thank you.
