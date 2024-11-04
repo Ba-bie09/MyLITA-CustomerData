@@ -59,7 +59,9 @@ FROM
 GROUP BY 
     Region;
 ```
-![DAX](https://github.com/user-attachments/assets/d05c4c9c-943b-4d48-b01b-c10073b9c4ab)
+
+DAX
+Count True = COUNT ROWS(FILTER(CustomerData1,CustomersData1[Cancellation]=True))
 
 
 ## Data Visualization
