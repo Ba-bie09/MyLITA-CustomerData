@@ -59,10 +59,9 @@ FROM
 GROUP BY 
     Region;
 ```
-
-DAX
+```DAX
 Count True = COUNT ROWS(FILTER(CustomerData1,CustomersData1[Cancellation]=True))
-
+```
 
 ## Data Visualization
 ![For CustomerData](https://github.com/user-attachments/assets/66222de8-f628-4af0-b908-b8b3eab14779)
