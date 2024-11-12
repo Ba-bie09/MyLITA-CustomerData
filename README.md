@@ -71,7 +71,7 @@ Count True = COUNT ROWS(FILTER(CustomerData1,CustomersData1[Cancellation]=True))
 
 
 ## Inference
-1. The total numbers of Subscribers that cancelled wer more than the subscribers that made Renewals.
+1. The total numbers of Subscribers that cancelled were approximately 34,000 which means Renewals were approximately 41,000.
 2. Subscription is are the peak at the beginning of the year, but drops by the end of the year.
 3. The East and the North Regions subscribe to the Basic type only, while Premium is available only in the South Region and Standard only in the West Region.
 
