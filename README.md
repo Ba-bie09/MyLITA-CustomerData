@@ -66,7 +66,8 @@ Count True = COUNT ROWS(FILTER(CustomerData1,CustomersData1[Cancellation]=True))
 ## Data Visualization
 ![For CustomerData](https://github.com/user-attachments/assets/66222de8-f628-4af0-b908-b8b3eab14779)
 
-![CustomerDataProject](https://github.com/user-attachments/assets/8f6f2257-245d-43bc-885b-3196fbb205d2)
+![Updated](https://github.com/user-attachments/assets/b1b8f020-d715-4adf-83a9-7a7294d01782)
+
 
 
 ## Inference
