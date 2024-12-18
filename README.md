@@ -13,7 +13,6 @@
 [Explanatory Data Analysis](#explanatory-data-analysis)
 
 [Data Analysis](#data-analysis)
-![SQL](https://github.com/user-attachments/assets/1ccfff80-02c1-4149-bbe7-1b96cda7dae8)
 
 [Data Visualization](#data-visualization)
 
@@ -69,6 +68,7 @@ Count True = COUNT ROWS(FILTER(CustomerData1,CustomersData1[Cancellation]=True))
 
 ![Updated](https://github.com/user-attachments/assets/b1b8f020-d715-4adf-83a9-7a7294d01782)
 
+![SQL](https://github.com/user-attachments/assets/d6a5b2b3-7714-46ed-8086-1fffb1f296d9)
 
 
 ## Inference
