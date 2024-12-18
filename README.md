@@ -13,6 +13,7 @@
 [Explanatory Data Analysis](#explanatory-data-analysis)
 
 [Data Analysis](#data-analysis)
+![SQL](https://github.com/user-attachments/assets/1ccfff80-02c1-4149-bbe7-1b96cda7dae8)
 
 [Data Visualization](#data-visualization)
 
